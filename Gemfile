@@ -33,6 +33,7 @@ gem 'jbuilder', '~> 2.5'
 # AlexVentura.io
 gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'materialize-sass', '~> 0.100.2'
+gem 'material_icons', '~> 2.2', '>= 2.2.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 
 # Use Capistrano for deployment
